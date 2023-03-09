@@ -1,2 +1,5 @@
-# intro_metrics_modern_approach
-Exercises and examples from Introductory Econometrics: A Modern Approach book,by Wooldrige, in Python
+# Introductory Econometrics: A Modern Approach in Python
+
+Exercises and examples from <b>Introductory Econometrics: A Modern Approach</b> book, by Wooldrige, solved in Python.
+
+
